@@ -13,6 +13,8 @@ Analista de Infraestrutura (SRE) na UNIFOR, em Fortaleza. Trabalho com observabi
 
 ## Repositórios em destaque
 
+- [ansible-snmpv3-switches](https://github.com/Thithio/ansible-snmpv3-switches): Ansible que mantém SNMPv3 e trap em switches Cisco e Huawei, verificando antes de aplicar.
+- [k3s-gitops-vps](https://github.com/Thithio/k3s-gitops-vps): template de VPS com tudo no Git, com OpenTofu, Ansible, k3s e Argo CD.
 - [zabbix-switchs-discovery-scripts](https://github.com/Thithio/zabbix-switchs-discovery-scripts): descoberta de switches Cisco e Huawei por SNMP e cadastro automático no Zabbix pela API.
 - [pdf-to-obsidian-notes](https://github.com/Thithio/pdf-to-obsidian-notes): transforma um PDF grande com marcadores numa pasta de notas Markdown, sem chamada de LLM.
 

@@ -18,6 +18,11 @@ Analista de Infraestrutura (SRE) na UNIFOR, em Fortaleza. Trabalho com observabi
 - [zabbix-switchs-discovery-scripts](https://github.com/Thithio/zabbix-switchs-discovery-scripts): descoberta de switches Cisco e Huawei por SNMP e cadastro automático no Zabbix pela API.
 - [pdf-to-obsidian-notes](https://github.com/Thithio/pdf-to-obsidian-notes): transforma um PDF grande com marcadores numa pasta de notas Markdown, sem chamada de LLM.
 
+## Outros projetos
+
+- [gh900-quest](https://github.com/Thithio/gh900-quest): estudo gamificado para a certificação GitHub Foundations, com [site no ar](https://thithio.github.io/gh900-quest/).
+- [3D_Calculator](https://github.com/Thithio/3D_Calculator): calculadora de custo de impressão 3D (filamento, energia e desgaste da máquina).
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/thiago-angelim)
